@@ -11,7 +11,7 @@ export default function Delivery() {
           
           <div className="flex-1 min-w-70 bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition duration-300 border border-gray-100 text-center">
             <div className="text-8xl text-orange-500 mb-4">
-              <i class="fi fi-bs-hamburger"></i>
+              <i className="fi fi-bs-hamburger"></i>
             </div>
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">
               Pick Meals
@@ -23,7 +23,7 @@ export default function Delivery() {
 
           <div className="flex-1 min-w-70 bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition duration-300 border border-gray-100 text-center">
             <div className="text-8xl text-orange-500 mb-4">
-              <i class="fi fi-bs-cursor-finger"></i>
+              <i className="fi fi-bs-cursor-finger"></i>
             </div>
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">
               Choose How Often
@@ -35,7 +35,7 @@ export default function Delivery() {
 
           <div className="flex-1 min-w-70 bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition duration-300 border border-gray-100 text-center">
             <div className="text-8xl text-orange-500 mb-4">
-              <i class="fi fi-bs-shipping-fast "></i>
+              <i className="fi fi-bs-shipping-fast "></i>
             </div>
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">
               Fast Deliveries

@@ -1,4 +1,4 @@
-
+import foodMockup from '../public/images/image.png';
 import Image from 'next/image';
 
 export default function Aboutus() {
@@ -28,8 +28,8 @@ export default function Aboutus() {
             <div className="w-full max-w-md h-96 relative"> 
                 
                 <Image
-                  src="/images/image.png"
-                  alt="Hot Food Delivery Mockup"
+                  src={foodMockup}
+                  alt="Food Image"
                   fill 
                   style={{ objectFit: "contain" }} 
                 
